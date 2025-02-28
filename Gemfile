@@ -45,3 +45,4 @@ group :development do
   # gem "spring"
 end
 
+gem 'mongoid', '~> 8.0.2'
